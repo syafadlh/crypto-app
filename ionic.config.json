@@ -1,0 +1,7 @@
+{
+  "name": "cryptoCurrency-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
